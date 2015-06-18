@@ -15,3 +15,6 @@ This workshop will cover basics skills for data scientists in commonly used tool
 
 ### Scikit Learn
  - PyCon 2015 Tutorial - [Video](http://pyvideo.org/video/3429/machine-learning-with-scikit-learn-i), [Supporting Material](https://github.com/jakevdp/sklearn_pycon2015)
+
+### Machine Learning Datasets
+ - UC Irvine Dataset Collection - [Repo](https://archive.ics.uci.edu/ml/datasets.html)
