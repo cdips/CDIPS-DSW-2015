@@ -11,11 +11,11 @@ This workshop will cover basics skills for data scientists in commonly used tool
 ## Useful Resources
 
 ### Git ###
-- Git Installation Instructions - [Link](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-- Join GitHub - [Link](https://github.com/join)
+- [Git Installation Instructions](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- [Join GitHub](https://github.com/join)
 - GitHub Client Installation - [Mac](https://mac.github.com/), [Windows](https://windows.github.com/)
-- Git Documentation - [Link](http://git-scm.com/doc)
-- GitHub Help - [Link](https://help.github.com/)
+- [Git Documentation](http://git-scm.com/doc)
+- [GitHub Help](https://help.github.com/)
 - Code School - [Try Git](https://try.github.io), [Git Real](http://gitreal.codeschool.com/)
 
 ### Pandas
