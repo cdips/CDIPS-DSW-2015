@@ -28,7 +28,7 @@ This workshop will cover basics skills for data scientists in commonly used tool
  - PyCon 2015 Tutorial - [Video](http://pyvideo.org/video/3429/machine-learning-with-scikit-learn-i), [Supporting Material](https://github.com/jakevdp/sklearn_pycon2015)
 
 ### Machine Learning
- - Cross Validation (note these are quite technical, so unless you like statistics I would not recommend reading them) - [Arlot + Celisse](http://projecteuclid.org/download/pdfview_1/euclid.ssu/1268143839), [Hastie, Tibshirani + Friedman](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+ - Cross Validation (note these are quite technical, so unless you like statistics I would not recommend reading them) - [Arlot + Celisse](http://projecteuclid.org/download/pdfview_1/euclid.ssu/1268143839), [Hastie + Tibshirani + Friedman](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
 
 ### SQL
  - [SQLZoo](http://sqlzoo.net/)
