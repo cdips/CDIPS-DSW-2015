@@ -18,11 +18,17 @@ This workshop will cover basics skills for data scientists in commonly used tool
 - [GitHub Help](https://help.github.com/)
 - Code School - [Try Git](https://try.github.io), [Git Real](http://gitreal.codeschool.com/)
 
+### General python
+- PyCon 2015 Tutorial - [Video])(https://www.youtube.com/watch?v=L4Hbv4ugUWk), [Supporting Material](https://github.com/sarguido/hands-on-analysis-python)
+
 ### Pandas
  - PyCon 2015 Tutorial - [Video](http://pyvideo.org/video/3395/pandas-from-the-ground-up), [Supporting Material](https://github.com/brandon-rhodes/pycon-pandas-tutorial)
 
 ### Scikit Learn
  - PyCon 2015 Tutorial - [Video](http://pyvideo.org/video/3429/machine-learning-with-scikit-learn-i), [Supporting Material](https://github.com/jakevdp/sklearn_pycon2015)
+
+### SQL
+[SQLZoo](http://sqlzoo.net/)
 
 ### Machine Learning Datasets
  - UC Irvine Dataset Collection - [Repo](https://archive.ics.uci.edu/ml/datasets.html)
